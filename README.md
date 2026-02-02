@@ -1,4 +1,4 @@
-# CIST8950: InfoParse
+# CIST8950: Info-Parse
 *A Proactive Dashboard for Detecting Information Warfare*
 
 ## Team Members:
@@ -20,7 +20,7 @@ False narratives rarely arrive labeled as false. They surface quietly as headlin
 * **Disinformation -** False information deliberately created and shared to deceive, influence, or cause harm; malicous intent
 
 ### Goals and Objectives
-InfoParse proposes the following high-level goals to address this problem:
+Info-Parse proposes the following high-level goals to address this problem:
 
 - Develop a proof-of-concept web dashboard that monitors trending topics on a single social media platform.
 - Identify narrative patterns that may indicate misinformation, disinformation, or malinformation.
@@ -29,7 +29,7 @@ InfoParse proposes the following high-level goals to address this problem:
 - Demonstrate an ethical and explainable approach to AI-assisted analysis focused on awareness rather than adjudication.
 
 ### Project Merit and Impact
-Successfully accomplishing these goals offers meaningful benefits across multiple audiences. For analysts, policymakers, journalists, and platform moderators, InfoWatch provides a visual and intuitive way to monitor emerging narratives without requiring deep technical expertise. At a societal level, this project also addresses the broader impact of misleading and manipulative narratives. Disinformation, misinformation, and malinformation can deepen social divides, inflame tensions, and erode trust between communities, particularly during moments of uncertainty or crisis. By helping users recognize emerging narratives early, this project reduces the likelihood that misleading content escalates into social unrest. In addition, improved visibility into how deceptive narratives spread can help protect vulnerable populations from exploitation, including financial scams, fraudulent campaigns, and emotionally manipulative messaging that disproportionately targets individuals with limited access to reliable information. By emphasizing awareness, context, and uncertainty, the system promotes cautious interpretation and responsible information sharing, empowering users to pause, question, and verify before reacting. At a time where narratives can shape outcomes before facts are fully understood, InfoParse offers a proactive, responsible way to see through the narrative.
+Successfully accomplishing these goals offers meaningful benefits across multiple audiences. For analysts, policymakers, journalists, and platform moderators, Info-Parse provides a visual and intuitive way to monitor emerging narratives without requiring deep technical expertise. At a societal level, this project also addresses the broader impact of misleading and manipulative narratives. Disinformation, misinformation, and malinformation can deepen social divides, inflame tensions, and erode trust between communities, particularly during moments of uncertainty or crisis. By helping users recognize emerging narratives early, this project reduces the likelihood that misleading content escalates into social unrest. In addition, improved visibility into how deceptive narratives spread can help protect vulnerable populations from exploitation, including financial scams, fraudulent campaigns, and emotionally manipulative messaging that disproportionately targets individuals with limited access to reliable information. By emphasizing awareness, context, and uncertainty, the system promotes cautious interpretation and responsible information sharing, empowering users to pause, question, and verify before reacting. At a time where narratives can shape outcomes before facts are fully understood, Info-Parse offers a proactive, responsible way to see through the narrative.
 
 ---
 
